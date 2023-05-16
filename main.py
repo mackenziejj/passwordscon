@@ -1,1 +1,2 @@
-
+aws_access_key_id = AKIAVAGUQ5JE2FCIDJXC
+aws_secret_access_key = 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
